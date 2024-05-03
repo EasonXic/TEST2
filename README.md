@@ -1,4 +1,4 @@
-# TEST2 in xc_b
+# TEST2 in eason_2_b
 
 ## add a title
 
